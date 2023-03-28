@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node testmongo2.js"
+    "start": "node testmongo.js"
   },
   "dependencies": {
     "express": "^4.18.2",
