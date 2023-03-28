@@ -1,14 +1,14 @@
 {
-  "name": "ckMongoTest",
+  "name": "logan_klier_lab_3_23",
   "version": "1.0.0",
-  "description": "CKs Express Mongo Test on Render",
+  "description": "LKs Express Mongo Test on Render",
   "main": "testmongo.js",
-  "repository": "https://github.com/ckorpio/MongoTest",
-  "author": "CK",
+  "repository": "https://github.com/loganklier/CMPS415-3-27-lab",
+  "author": "LK",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node testmongo.js"
+    "start": "node testmongo2.js"
   },
   "dependencies": {
     "express": "^4.18.2",
